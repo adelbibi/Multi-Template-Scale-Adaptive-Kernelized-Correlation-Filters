@@ -1,0 +1,11 @@
+#!/bin/bash -l
+#SBATCH --array=0-1439%150
+#SBATCH --time=0-48:00
+#SBATCH --job-name=KCF_MT_Mod_Matt
+#SBATCH --error=logs/job.%J.err
+#SBATCH --output=logs/job.%J.out
+#SBATCH  --partition=defaultq
+
+
+module load matlab/R2015b
+matlab -nodesktop -nosplash -r "grid_search(${SLURM_ARRAY_TASK_ID});quit;"
