@@ -15,7 +15,9 @@ Email:
 Bernard Ghanem's website:
 http://www.bernardghanem.com/
 
-Email: Bernard.Ghanem [AT] kaust.edu.sa 
+Email: 
+       
+       Bernard.Ghanem [AT] kaust.edu.sa 
 
 **************************************************
 This MATLAB code implements a simple tracking pipeline based on the multi template scale
