@@ -43,7 +43,7 @@ To run over the complete dataset:
 2- Change line line 49 video = 'all'.
 3- Dump all the OTB100 or OTB50 videos into the the directory (videos).
 4- Run the tracker.
-5- The detailed results will be stored in (results) directory.
+5- The detailed results will be stored in (results) directory. (Make sure to create a directory named results inthe current path)
 
 
 The code is also completey integratable with the OTB100 and OTB50 evaulation benchmarks.
@@ -63,8 +63,8 @@ It's the same exact code with the same parameters but has been changed to the st
 **************************************************
 
 Referrences:
-[1] Henriques, João F., et al. "High-speed tracking with kernelized correlation filters." Pattern Analysis and Machine Intelligence, IEEE Transactions on 37.3 (2015): 583-596.
-[2] Henriques, Joao F., et al. "Exploiting the circulant structure of tracking-by-detection with kernels." Computer Vision–ECCV 2012. Springer Berlin Heidelberg, 2012. 702-715.
+[1] Henriques, JoÃ£o F., et al. "High-speed tracking with kernelized correlation filters." Pattern Analysis and Machine Intelligence, IEEE Transactions on 37.3 (2015): 583-596.
+[2] Henriques, Joao F., et al. "Exploiting the circulant structure of tracking-by-detection with kernels." Computer Visionâ€“ECCV 2012. Springer Berlin Heidelberg, 2012. 702-715.
 [3] Wu, Yi, Jongwoo Lim, and Ming-Hsuan Yang. "Online object tracking: A benchmark." Proceedings of the IEEE conference on computer vision and pattern recognition. 2013.
 
 A complete list of references can be found in the paper, which can be found here
