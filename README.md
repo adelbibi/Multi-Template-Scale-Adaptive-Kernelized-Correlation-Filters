@@ -8,7 +8,9 @@ https://ivul.kaust.edu.sa/Pages/Home.aspx
 Adel Bibi's website:
 www.adelbibi.com
 
-Email: adel.bibi [AT] kaust.edu.sa
+Email: 
+       adel.bibi [AT] kaust.edu.sa
+
        bibiadel93 [AT] gmail.com
 
 
