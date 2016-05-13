@@ -9,10 +9,8 @@ Adel Bibi's website:
 www.adelbibi.com
 
 Email: 
-       adel.bibi [AT] kaust.edu.sa
-
-       bibiadel93 [AT] gmail.com
-
+        
+       adel.bibi [AT] kaust.edu.sa                 bibiadel93 [AT] gmail.com
 
 Bernard Ghanem's website:
 http://www.bernardghanem.com/
